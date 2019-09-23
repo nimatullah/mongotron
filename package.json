@@ -8,7 +8,7 @@
     "async": "1.5.0",
     "bluebird": "3.0.6",
     "bson": "https://github.com/officert/js-bson/tarball/master",
-    "csv": "0.4.6",
+    "csv": "5.0.0",
     "electron-gh-releases": "2.0.2",
     "electron-packager": "5.2.1",
     "escodegen": "1.8.0",
