@@ -16,7 +16,7 @@
     "github": "0.2.4",
     "gulp": "3.9.1",
     "jsonfile": "2.2.3",
-    "mongodb": "2.1.2",
+    "mongodb": "3.1.13",
     "node-uuid": "1.4.7",
     "path-extra": "3.0.0",
     "semver": "5.1.0",
