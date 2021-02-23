@@ -20,7 +20,7 @@
     "node-uuid": "1.4.7",
     "path-extra": "3.0.0",
     "semver": "5.1.0",
-    "tunnel-ssh": "3.0.0-alpha",
+    "tunnel-ssh": "4.0.0",
     "underscore": "1.8.3",
     "winston": "git+https://github.com/dustinblackman/winston.git"
   },
