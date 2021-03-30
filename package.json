@@ -21,7 +21,7 @@
     "path-extra": "3.0.0",
     "semver": "5.1.0",
     "tunnel-ssh": "3.0.0-alpha",
-    "underscore": "1.8.3",
+    "underscore": "1.12.1",
     "winston": "git+https://github.com/dustinblackman/winston.git"
   },
   "devDependencies": {
